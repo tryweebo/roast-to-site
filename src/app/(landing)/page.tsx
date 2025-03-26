@@ -4,26 +4,24 @@ import { sharedMetadata } from '@shared/libs'
 import { HeroSection } from './hero-section'
 import { ProcessSection } from './process-section'
 import { BenefitsSection } from './benefits-section'
-import { ServiceSection } from './service-section'
 import { FAQSection } from './faq-section'
 import { CTASection } from './cta-section'
-import { PlanSection } from './plan-section'
 
 export const metadata: Metadata = {
-  title: 'Your Business Growth & Success Partner | Sonibble',
+  title: 'Roast Website for Better Conversion | Roast To Site',
   description:
-    'We help small business, startups, and professional grow, scale & win the game',
+    'We help founders, business and teams to give feedback and roasting all aspect of website for better conversions rate',
   openGraph: {
     ...sharedMetadata.openGraph,
-    title: 'Your Business Growth & Success Partner | Sonibble',
+    title: 'Roast Website for Better Conversion | Roast To Site',
     description:
-      'We help small business, startups, and professional grow, scale & win the game',
+      'We help founders, business and teams to give feedback and roasting all aspect of website for better conversions rate',
   },
   twitter: {
     ...sharedMetadata.twitter,
-    title: 'Your Business Growth & Success Partner | Sonibble',
+    title: 'Roast Website for Better Conversion | Roast To Site',
     description:
-      'We help small business, startups, and professional grow, scale & win the game',
+      'We help founders, business and teams to give feedback and roasting all aspect of website for better conversions rate',
   },
 }
 
@@ -33,8 +31,6 @@ export default function HomePage(): React.ReactElement {
       <HeroSection />
       <BenefitsSection />
       <ProcessSection />
-      <ServiceSection />
-      <PlanSection />
       <FAQSection />
       <CTASection />
     </div>

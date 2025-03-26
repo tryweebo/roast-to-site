@@ -12,27 +12,26 @@ export function HeroSection(): React.ReactElement {
         </SectionLabel>
       </div>
       <h2 className="text-4xl font-semibold text-center leading-tight mt-10 font-bricolage">
-        Growth business
+        Want more sales?
         <br />
-        kickstarter
+        roast now
       </h2>
       <p className="text-foreground/50 mt-10 text-center tablet:w-9/12 laptop:w-8/12 leading-relaxed text-pretty">
-        Your growth partner for your business, help you with more leads, sales,
-        buyers, customers. We give you solutions and grow your business
-        together.
+        Most website hero sections are massively underperforming. A few tweaks
+        might be all you need to rocket-boost conversions.
       </p>
       <div className="flex flex-wrap items-center justify-center gap-x-8 gap-y-3 mt-10">
         <span className="flex items-center gap-2 text-sm transition-all duration-300 hover:-translate-y-1 cursor-pointer">
           <i className="fi fi-sr-check-circle text-green-500" />
-          Trusted partner
+          Fast delivery
         </span>
         <span className="flex items-center gap-2 text-sm transition-all duration-300 hover:-translate-y-1 cursor-pointer">
           <i className="fi fi-sr-check-circle text-green-500" />
-          Transparent
+          No risk
         </span>
         <span className="flex items-center gap-2 text-sm transition-all duration-300 hover:-translate-y-1 cursor-pointer">
           <i className="fi fi-sr-check-circle text-green-500" />
-          ROI based perfomance
+          High conversion
         </span>
       </div>
       <div className="flex flex-col tablet:flex-row items-center gap-4 mt-16">
@@ -43,20 +42,10 @@ export function HeroSection(): React.ReactElement {
           className="transition-all duration-300 hover:-translate-y-1 hover:scale-95"
         >
           <Link
-            href={'https://cal.com/nyomansunima/sonibble-intro-call'}
+            href={'https://cal.com/nyomansunima/roast-to-site'}
             target="_blank"
           >
-            Book free strategy call <i className="fi fi-br-location-arrow" />
-          </Link>
-        </Button>
-        <Button
-          size={'lg'}
-          variant={'outline'}
-          asChild
-          className="transition-all duration-300 hover:-translate-y-1 hover:scale-95"
-        >
-          <Link href={'/#plans'}>
-            See plans <i className="fi fi-br-heart" />
+            Roast my site for $99 <i className="fi fi-br-location-arrow" />
           </Link>
         </Button>
       </div>

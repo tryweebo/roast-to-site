@@ -56,11 +56,11 @@ export function CTASection(): React.ReactElement {
           className="transition-all duration-300 hover:-translate-y-2 hover:scale-95"
         >
           <Link
-            href={'https://cal.com/nyomansunima/sonibble-intro-call'}
+            href={'https://cal.com/nyomansunima/roast-to-site'}
             target="_blank"
           >
-            Book a call
-            <i className="fi fi-br-video-camera-alt" />
+            Book a spot. Just $99
+            <i className="fi fi-br-flame" />
           </Link>
         </Button>
       </div>

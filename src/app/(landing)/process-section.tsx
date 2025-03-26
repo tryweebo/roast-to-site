@@ -22,9 +22,9 @@ export function ProcessSection(): React.ReactElement {
         <SectionLabel>How it works</SectionLabel>
       </div>
       <h2 className="text-4xl font-semibold text-center leading-tight mt-10 font-bricolage">
-        Simple strategy to
+        Simple yet to increase
         <br />
-        win the game
+        conversions
       </h2>
 
       <div className="flex justify-center w-full mt-28">
@@ -33,76 +33,78 @@ export function ProcessSection(): React.ReactElement {
             <div className="flex relative">
               <span className="flex items-center gap-1 pl-1 pr-3 py-1 rounded-full bg-gray-100 text-gray-500 text-sm font-medium transition-all duration-300 group-hover:bg-rose-100 group-hover:text-rose-500">
                 <i className="fi fi-sr-bullet" />
-                01. Kickstart
+                01. Book
               </span>
 
               <i className="fi fi-sr-bullet absolute -right-2 -top-2 text-lg text-foreground/50" />
             </div>
 
             <h3 className="text-lg font-medium mt-3 text-pretty font-bricolage">
-              Website & branding
+              Book a roast
             </h3>
 
             <p className="text-foreground/60 leading-relaxed mt-5 text-pretty">
-              First, start with branding, logo and websites to run your
-              business. Create your business online presence.
+              Submit your URL and answer some very simple questions to help me
+              understand your business goals and ideal customers.
             </p>
           </div>
           <div className="flex flex-col col-span-1 bg-surface border-2 border-border border-dashed rounded-2xl p-4 cursor-pointer transition-all duration-300 hover:-translate-y-2 group hover:scale-105 rotate-6 hover:rotate-3">
             <div className="flex relative">
               <span className="flex items-center gap-1 pl-1 pr-3 py-1 rounded-full bg-gray-100 text-gray-500 text-sm font-medium transition-all duration-300 group-hover:bg-rose-100 group-hover:text-rose-500">
                 <i className="fi fi-sr-bullet" />
-                02. Support
+                02. Identify
               </span>
 
               <i className="fi fi-sr-bullet absolute -right-2 -top-2 text-lg text-foreground/50" />
             </div>
 
             <h3 className="text-lg font-medium mt-3 text-pretty font-bricolage">
-              Design, strategy & resources
+              Find problems
             </h3>
 
             <p className="text-foreground/60 leading-relaxed mt-5 text-pretty">
-              Next, wee need to support with design, pitch, newsletter, and
-              resources.
+              I'll review your page and record a 15 minute personalised videos
+              identifying the most important fixes to increase your conversion
+              rate. Sent to you in less than 48 hours.
             </p>
           </div>
           <div className="flex flex-col col-span-1 bg-surface border-2 border-border border-dashed rounded-2xl p-4 cursor-pointer transition-all duration-300 hover:-translate-y-2 group hover:scale-105 -rotate-6 hover:-rotate-3">
             <div className="flex relative">
               <span className="flex items-center gap-1 pl-1 pr-3 py-1 rounded-full bg-gray-100 text-gray-500 text-sm font-medium transition-all duration-300 group-hover:bg-rose-100 group-hover:text-rose-500">
                 <i className="fi fi-sr-bullet" />
-                03. Maintain
+                03. Fix
               </span>
 
               <i className="fi fi-sr-bullet absolute -right-2 -top-2 text-lg text-foreground/50" />
             </div>
 
             <h3 className="text-lg font-medium mt-3 text-pretty font-bricolage">
-              Maintain online presence
+              Fix & Reviews
             </h3>
 
             <p className="text-foreground/60 leading-relaxed mt-5 text-pretty">
-              So keep business on top of performance with tracking, analytics,
-              review, and seo.
+              You watch the video, make the fixes to your landing page and hit
+              publish. Not sure how to implement your changes? I'll help with
+              that too. Just ask.
             </p>
           </div>
           <div className="flex flex-col col-span-1 bg-surface border-2 border-border border-dashed rounded-2xl p-4 cursor-pointer transition-all duration-300 hover:-translate-y-2 group hover:scale-105 rotate-6 hover:rotate-3">
             <div className="flex relative">
               <span className="flex items-center gap-1 pl-1 pr-3 py-1 rounded-full bg-gray-100 text-gray-500 text-sm font-medium transition-all duration-300 group-hover:bg-rose-100 group-hover:text-rose-500">
                 <i className="fi fi-sr-bullet" />
-                04. Grow
+                04. Publish
               </span>
 
               <i className="fi fi-sr-bullet absolute -right-2 -top-2 text-lg text-foreground/50" />
             </div>
 
             <h3 className="text-lg font-medium mt-3 text-pretty font-bricolage">
-              Grow online & audience
+              Updates & Publish
             </h3>
 
             <p className="text-foreground/60 leading-relaxed mt-5 text-pretty">
-              Now, time grow your busienss bigger, start a content, ads,
-              campaign, and audience growth.
+              You can start making changes and upgrade your website with the
+              feedback and publish it. You can also work with us for help.
             </p>
           </div>
         </div>

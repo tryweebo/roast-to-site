@@ -15,29 +15,24 @@ type FAQ = {
 
 const faqs: FAQ[] = [
   {
-    question: 'How moch it cost for a website?',
+    question: 'Will my conversions actually increase?',
     answer:
-      "It's depend on your own picked plan. If you pick a custom work you will likely cost around $500 - $1200",
+      "Yes, or you will get another extra strategies. Also you can get the money back if you don't see any results.",
   },
   {
-    question: 'What if I want a fixed price quote?',
+    question: 'How much does it cost?',
     answer:
-      "If you are looking for a more traditional scoping method with specific timeframes, we do those too! Schedule a call and we'll run through the requirements together.",
+      'All you need is pay for $99 for roasting with no contract, no risk and money back guarantee. You can get more benefits by spending less money rather than marketing.',
   },
   {
-    question: 'Why not hire a freelancer?',
+    question: "My landing page isn't live yet. Can you roast it?",
     answer:
-      'With us you have access to a full team with a variety of skills. These can be design, Webflow development, Javascript development, SEO and more. You would need to hire multiple freelancers to have the same level of expertise.',
+      'Sure, pre launched is the perfect timing for us to roast your landing page. We will roast your landing page and give you feedback on how to improve it.',
   },
   {
-    question: 'Who is it for?',
+    question: 'Can you design, write copy and develop my landing page?',
     answer:
-      'We work with both startups and enterprises. Subscriptions work best with companies that have regular work, these can be creating new pages, adding features, ongoing redesigns and regular marketing campaigns.',
-  },
-  {
-    question: 'What can we work on?',
-    answer:
-      'Depending on the plan, the hours can be used on whatever you need at the time, it can be design, development, auditing, UX, training, you name it! We are here to help your company grow and make sure your digital campaigns go smoothly.',
+      'Yap, we can help you design, develope and writing better copy for your changes. We build team for helping you. Connect with tryweebo.one or usesonibble.site',
   },
 ]
 
