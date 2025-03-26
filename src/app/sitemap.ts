@@ -11,13 +11,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
       url: `${BASE_URL}`,
       lastModified: new Date().toISOString(),
     },
-    {
-      url: `${BASE_URL}/terms`,
-      lastModified: new Date().toISOString(),
-    },
-    {
-      url: `${BASE_URL}/privacy`,
-      lastModified: new Date().toISOString(),
-    },
   ]
 }
