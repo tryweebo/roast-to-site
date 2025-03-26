@@ -7,7 +7,7 @@ const openGraph: OpenGraph = {
   ],
   locale: 'en_US',
   type: 'website',
-  siteName: 'Your Business Growth & Success Partner | Sonibble',
+  siteName: 'Roast Website for Better Conversion | Roast To Site',
 }
 
 const twitter: Twitter = {
@@ -16,7 +16,7 @@ const twitter: Twitter = {
   ],
   card: 'summary_large_image',
   creator: '@nyomansunima',
-  site: 'Your Business Growth & Success Partner | Sonibble',
+  site: 'Roast Website for Better Conversion | Roast To Site',
 }
 
 export const sharedMetadata = {
