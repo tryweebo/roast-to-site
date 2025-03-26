@@ -8,34 +8,32 @@ import { Footer, Header, CenteredLayout } from '@shared/components'
 import { fonts } from '@shared/fonts'
 
 export const metadata: Metadata = {
-  title: 'Your Business Growth & Success Partner | Sonibble',
+  title: 'Roast Website for Better Conversion | Roast To Site',
   description:
-    'We help small business, startups, and professional grow, scale & win the game',
+    'We help founders, business and teams to give feedback and roasting all aspect of website for better conversions rate',
   openGraph: {
     ...sharedMetadata.openGraph,
-    title: 'Your Business Growth & Success Partner | Sonibble',
+    title: 'Roast Website for Better Conversion | Roast To Site',
     description:
-      'We help small business, startups, and professional grow, scale & win the game',
+      'We help founders, business and teams to give feedback and roasting all aspect of website for better conversions rate',
   },
   twitter: {
     ...sharedMetadata.twitter,
-    title: 'Your Business Growth & Success Partner | Sonibble',
+    title: 'Roast Website for Better Conversion | Roast To Site',
     description:
-      'We help small business, startups, and professional grow, scale & win the game',
+      'We help founders, business and teams to give feedback and roasting all aspect of website for better conversions rate',
   },
-  applicationName: 'Your Business Growth & Success Partner | Sonibble',
+  applicationName: 'Roast Website for Better Conversion | Roast To Site',
   keywords: [
-    'Web Designer',
-    'Landing Page',
-    'SEO',
-    'Growth Partner',
-    'Marketing Agency',
-    'Web Design Agency',
+    'Website Review',
+    'Website Audit',
+    'Website Roasting',
+    'Landing Page Roasting',
+    'Website Feedback',
+    'Design Feedback',
+    'Website Design Feedback',
   ],
-  authors: [
-    { name: 'Nyoman Sunima', url: 'https://www.nyomansunima.one' },
-    { name: 'Weebo', url: 'https://www.tryweeboo.one' },
-  ],
+  authors: [{ name: 'Nyoman Sunima', url: 'https://www.nyomansunima.one' }],
   publisher: 'Nyoman Sunima',
   creator: 'Nyoman Sunima',
   metadataBase: new URL(config.app.host),
